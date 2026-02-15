@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.18",
+    "live-server": "^1.2.2",
+    "nodemon": "^3.1.9",
+    "tailwindcss": "^4.1.18"
+  },
+  "scripts": {
+    "start": "live-server --port=3000 --open=/index.html"
+  }
+}
